@@ -1,6 +1,6 @@
 # SpaceX Capstone Project
 
-![SpaceX Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/SpaceX_logo_black.svg/1200px-SpaceX_logo_black.svg.png)
+![SpaceX White Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/SpaceX_Logo_White.png/1200px-SpaceX_Logo_White.png)
 
 This repository contains my completed capstone project for the IBM Data Science Professional Certificate on Coursera, focusing on SpaceX launch data analysis and prediction.
 
